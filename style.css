@@ -1,0 +1,139 @@
+html {
+    font-size: 60.5%;
+    height: 100%;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+    height: 100%;
+}
+
+.header {
+    background: linear-gradient(46deg, #d86e91 46%, #d86e91 66%);
+    width: 100%;
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header h1 {
+    font-size: 3rem;
+    font-family: 'Arsenal SC', sans-serif;
+    margin: 0;
+    color: #fff;
+}
+
+.main-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6rem;
+    justify-content: center;
+    width: 100%;
+    max-width: 120rem;
+}
+
+.container {
+    background: white;
+    padding: 2rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
+    border-radius: 0.6rem;
+    box-sizing: border-box;
+    margin: 2rem;
+    flex: 1 1 calc(33.333% - 4rem);
+}
+
+.container h2 {
+    margin-bottom: 1rem;
+    font-size: 2rem;
+    font-family: 'Arsenal SC', sans-serif;
+    color: #000;
+    font-weight: bold;
+}
+
+form {
+    display: flex;
+    margin-bottom: 1.5rem;
+}
+
+form input {
+    flex: 1;
+    padding: 0.5rem;
+    border: 0.1rem solid #ccc;
+    border-radius: 0.4rem;
+    margin-right: 0.5rem;
+}
+
+form button {
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: #ce3266;
+    color: white;
+    border-radius: 0.4rem;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #0ea52e;
+}
+
+    ul {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    li {
+        padding: 0.5rem;
+        border-bottom: 0.1rem solid #ccc;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    li.completed span {
+        text-decoration: line-through;
+
+    }
+
+    li button {
+        background-color: #ae0617;
+        border: none;
+        color: white;
+        padding: 0.5rem;
+        border-radius: 0.4rem;
+        cursor: pointer;
+    }
+
+    li button:hover {
+        background-color: #ae0617;
+    }
+
+    @media (max-width: 768px) {
+        .container {
+            flex: 1 1 calc(50% - 4rem);
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+        }
+
+    }
+
+    @media (max-width: 480px) {
+        .container {
+            flex: 1 1 100%;
+        }
+
+        .header h1 {
+            font-size: 2rem;
+        }
+    }
