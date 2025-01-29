@@ -1,20 +1,20 @@
 # Daily Check ✔️
 
-O Daily Check é uma aplicação web simples e funcional para organização de tarefas e atividades diárias. Desenvolvida com **HTML**, **CSS** e **JavaScript**, a plataforma oferece uma interface intuitiva, dividida em seções temáticas, como:
+Daily Check is a simple and functional web application designed for organizing daily tasks and activities. Developed using HTML, CSS, and JavaScript, the platform provides an intuitive interface divided into thematic sections, such as:
 
 <br>
 
-📝 **To Do:** Planejamento geral de tarefas.
+📝 **To Do:** General task planning.
 
-📚 **To Study/Works:** Organização de estudos e atividades profissionais.
+📚 **To Study/Works:** Organization of studies and professional activities.
 
-💰 **Finances:** Controle de finanças pessoais.
+💰 **Finances:** Personal finance management.
 
-🛒 **Go Shopping:** Planejamento de compras.
+🛒 **Go Shopping:** Shopping planning.
 
-✈️ **Travel:** Gerenciamento de viagens e itinerários.
+✈️ **Travel:** Travel and itinerary management.
 
-🎭 **Entertainment:** Registro de atividades de lazer.
+🎭 **Entertainment:** Leisure activity tracking.
 
 <br>
 
@@ -23,10 +23,10 @@ O Daily Check é uma aplicação web simples e funcional para organização de t
 <br>
 <br>
 
-Com foco em produtividade, o Daily Check permite que os usuários adicionem, visualizem e deletem rapidamente suas atividades, garantindo uma rotina mais organizada e eficiente.
+Focused on productivity, Daily Check allows users to quickly add, view, and delete their activities, ensuring a more organized and efficient routine.
 
 <br>
 
-🖥️ Click <a href="https://arianemoura.github.io/dailycheck/">here</a> to access the website.
+🖥️ **Click <a href="https://arianemoura.github.io/dailycheck/">here</a> to access the website.**
 
 
