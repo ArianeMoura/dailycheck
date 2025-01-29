@@ -1,6 +1,6 @@
 # Daily Check ✔️
 
-Daily Check is a simple and functional web application designed for organizing daily tasks and activities. Developed using HTML, CSS, and JavaScript, the platform provides an intuitive interface divided into thematic sections, such as:
+Daily Check is a simple and functional web application designed for organizing daily tasks and activities. Developed using **HTML**, **CSS**, and **JavaScript**, the platform provides an intuitive interface divided into thematic sections, such as:
 
 <br>
 
