@@ -2,8 +2,6 @@
 
 Daily Check is a simple and functional web application designed for organizing daily tasks and activities. Developed using **HTML**, **CSS**, and **JavaScript**, the platform provides an intuitive interface divided into thematic sections, such as:
 
-<br>
-
 📝 **To Do:** General task planning.
 
 📚 **To Study/Works:** Organization of studies and professional activities.
@@ -24,8 +22,6 @@ Daily Check is a simple and functional web application designed for organizing d
 <br>
 
 Focused on productivity, Daily Check allows users to quickly add, view, and delete their activities, ensuring a more organized and efficient routine.
-
-<br>
 
 🖥️ **Click <a href="https://arianemoura.github.io/dailycheck/">here</a> to access the website.**
 
